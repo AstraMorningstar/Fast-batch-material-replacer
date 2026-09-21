@@ -31,7 +31,7 @@ Save copies of the original materials before replacement.
 
 Alternatively, remove the shader setup and keep only the main texture and Material Output.
 
-Return from group editing with the Back to 3D View button.
+Return from group editing with the Back to 3D View (Shift + F5)
 
 Separate English and Simplified Chinese packages.
 
@@ -103,7 +103,7 @@ The resulting structure is:
 
 Original Image Texture → Shared Shader Group → Material Output
 
-Editing the shared group later updates every material using it. Click Back to 3D View to leave the group editor without losing your edits.
+Editing the shared group later updates every material using it. Click (Shift + F5) to get back to 3D View.
 
 Cleanup Mode
 
@@ -164,7 +164,7 @@ Blender’s built-in menus and node labels follow Blender’s own language setti
 
 支持清理模式，仅保留主纹理和材质输出。
 
-提供“返回 3D 视图”按钮，无需使用功能键快捷键。
+提供“返回 3D 视图 (Shift + F5)
 
 提供独立的英文和简体中文安装包。
 
@@ -236,7 +236,7 @@ Blender 5.1
 
 原始图像纹理 → 共享着色器节点组 → 材质输出
 
-之后编辑共享节点组，会同步更新所有使用它的材质。点击“返回 3D 视图”即可离开节点组编辑界面，编辑内容会保留。
+之后编辑共享节点组，会同步更新所有使用它的材质。点击 (Shift + F5) 返回 3D 视图
 
 清理模式
 
